@@ -1,7 +1,5 @@
 ## Oiii eu sou Igor Faustino, desenvolvedor 😁👻
 
-Me sigam nas redes abaixo:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="igor-Delphi" height="50" width="50" src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png" title="Delphi">
   <img align="center" alt="igor-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5">
