@@ -1,4 +1,4 @@
-## Oiii eu sou a Igor Faustino, desenvolvedor!
+## Oiii eu sou Igor Faustino, desenvolvedor 😁👻
 
 Me sigam nas redes abaixo:
 
